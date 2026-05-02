@@ -1,6 +1,6 @@
 # Notification System
 
-A full-stack notification management system built with React, TypeScript, and Express.
+A full-stack frontend based  notification management system built with React, TypeScript, and Express.
 
 ## Project Structure
 
@@ -59,3 +59,17 @@ Frontend runs at `http://localhost:5173`
 - Dark mode UI with glassmorphism design
 - Integrated structured logging on every API call
 - Responsive layout
+
+## Screenshots
+
+### Notification Center — Create Form
+![Create Notification Form](./screenshots/screenshot2.png)
+
+### Filling in a Notification
+![Filling Notification Form](./screenshots/screenshot1.png)
+
+### Notification List (with badge)
+![Notification List](./screenshots/Screenshot%202026-05-02%20114641.png)
+
+### Multiple Notifications
+![Multiple Notifications](./screenshots/Screenshot%202026-05-02%20114657.png)
